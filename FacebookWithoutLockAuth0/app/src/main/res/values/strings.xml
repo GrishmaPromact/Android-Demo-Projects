@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FacebookWithoutLockAuth0</string>
+    <string name="com_auth0_client_id">7Mq4brLkSdt92pXfpZ9xVMBkItWspvil</string>
+    <string name="com_auth0_domain">grishma.auth0.com</string>
+    <string name="facebook_app_id">108177169867267</string>
+</resources>

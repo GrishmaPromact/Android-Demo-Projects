@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<RelativeLayout tools:context=".MainActivity"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:ignoreGravity="@string/_true"
+    android:gravity="center"
+    android:background="@color/background"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:background="@color/button"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/normalText"
+        android:onClick="@string/normal"
+        android:layout_marginTop="51dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/normalMode"/>
+
+    <Button
+        android:background="@color/button"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/ultimateText"
+        android:onClick="@string/ultimate"
+        android:layout_marginTop="41dp"
+        android:id="@+id/UltimateMode"
+        android:layout_below="@+id/normalMode"
+        android:layout_alignLeft="@+id/normalMode"/>
+
+    <Button
+        android:background="@color/button"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/aboutText"
+        android:onClick="@string/about"
+        android:layout_marginTop="42dp"
+        android:id="@+id/AboutBtn"
+        android:layout_below="@+id/UltimateMode"
+        android:layout_alignLeft="@+id/UltimateMode"/>
+
+    <Button
+        android:background="@color/button"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/exitText"
+        android:onClick="@string/exit"
+        android:layout_marginTop="41dp"
+        android:id="@+id/Exit"
+        android:layout_below="@+id/AboutBtn"
+        android:layout_alignLeft="@+id/AboutBtn"/>
+
+</RelativeLayout>

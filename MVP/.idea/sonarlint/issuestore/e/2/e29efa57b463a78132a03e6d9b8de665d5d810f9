@@ -1,0 +1,5 @@
+
+;squid:S1075"&Remove this hard-coded path-delimiter.(Æ€É
+Hsquid:S2095"3Close this "FileInputStream" in a "finally" clause.(ö‹Òç
+Isquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(¯îĞò
+Osquid:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ

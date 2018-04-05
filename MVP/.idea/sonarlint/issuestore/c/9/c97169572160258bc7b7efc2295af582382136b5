@@ -1,0 +1,11 @@
+
+S"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(ÿÃ²şÿÿÿÿ
+Gsquid:S1199"-Extract this nested code block into a method.(’ÈĞ§ûÿÿÿÿ
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+6squid:S1170"!Make this final field static too.(ŠÿÉÀ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼¸Ú€
+=squid:S1185"(Remove this method to simply inherit it.(´Â¸í
+squid:S00116"wRename this field "MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÿÉÀ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

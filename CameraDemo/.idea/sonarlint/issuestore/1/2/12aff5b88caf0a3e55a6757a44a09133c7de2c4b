@@ -1,0 +1,8 @@
+
+nsquid:S1450"YRemove the "openCamera" field and declare it as a local variable in the relevant methods.(ñŠˆ
+usquid:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼³ˆ8
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹©Ûœ
+Dsquid:S1905"/Remove this unnecessary cast to "RecyclerView".(”°«ˆ
+Bsquid:S1185"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±

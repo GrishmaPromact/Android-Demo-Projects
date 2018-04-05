@@ -1,0 +1,13 @@
+
+Ksquid:S1068"6Remove this unused "mCaptureNativeSize" private field.(œ”™„
+Jsquid:S1068"0Remove this unused "mCaptureTime" private field.(Øé¬Šûÿÿÿÿ
+msquid:S1450"XRemove the "recordBtn" field and declare it as a local variable in the relevant methods.(Ó° ž
+wsquid:S1450"]Remove the "cameraSwitchIv" field and declare it as a local variable in the relevant methods.(áäšÑÿÿÿÿÿ
+jsquid:S1450"URemove the "doneIV" field and declare it as a local variable in the relevant methods.(Ÿ´Ø­
+vsquid:S1450"aRemove the "mCaptureNativeSize" field and declare it as a local variable in the relevant methods.(œ”™„
+usquid:S1450"[Remove the "mCaptureTime" field and declare it as a local variable in the relevant methods.(Øé¬Šûÿÿÿÿ
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(æò˜Èýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÙŽýÿÿÿÿ
+Gsquid:S1905"-Remove this unnecessary cast to "CameraView".(û™ú¡ûÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(¡Œé
